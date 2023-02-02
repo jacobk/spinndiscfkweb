@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspinndiscfk=self.webpackChunkspinndiscfk||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Senaste nyheter","items":[{"title":"Urs\xe4kta r\xf6ran","permalink":"/blog/ursakta-roran"}]}')}}]);
