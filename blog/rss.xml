@@ -7,14 +7,14 @@
         <lastBuildDate>Thu, 02 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <language>se</language>
+        <language>sv</language>
         <item>
             <title><![CDATA[Ursäkta röran]]></title>
             <link>https://www.spinndiscfk.se/blog/ursakta-roran</link>
             <guid>https://www.spinndiscfk.se/blog/ursakta-roran</guid>
             <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Just nu har vi problem med den ordinarie hemsidan.]]></description>
-            <content:encoded><![CDATA[<p>Just nu har vi problem med den ordinarie hemsidan.</p>]]></content:encoded>
+            <description><![CDATA[Just nu har vi problem med den ordinarie hemsidan. Tills vidare kommer vi jobba för att få upp viktig information på den här temporära siten istället.]]></description>
+            <content:encoded><![CDATA[<p>Just nu har vi problem med den ordinarie hemsidan. Tills vidare kommer vi jobba för att få upp viktig information på den här temporära siten istället.</p><p>Tills vidare hänvisar vi frågor till vår Discord server som kan hitta här: <a href="https://discord.gg/n29MN4J9WY" target="_blank" rel="noopener noreferrer">https://discord.gg/n29MN4J9WY</a></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
