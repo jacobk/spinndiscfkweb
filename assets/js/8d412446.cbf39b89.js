@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspinndiscfk=self.webpackChunkspinndiscfk||[]).push([[539],{9734:e=>{e.exports=JSON.parse('{"title":"Kontakt","slug":"/category/kontakt","permalink":"/docs/category/kontakt","navigation":{"previous":{"title":"F\xf6rm\xe5ner","permalink":"/docs/medlemskap/formaner"},"next":{"title":"Kontakta styrelsen","permalink":"/docs/kontakt/styrelsen"}}}')}}]);

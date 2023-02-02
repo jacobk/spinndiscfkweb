@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspinndiscfk=self.webpackChunkspinndiscfk||[]).push([[122],{5317:e=>{e.exports=JSON.parse('{"title":"Medlemskap","slug":"/category/medlemskap","permalink":"/docs/category/medlemskap","navigation":{"previous":{"title":"Om klubben","permalink":"/docs/intro"},"next":{"title":"Bli medlem","permalink":"/docs/medlemskap/bli-medlem"}}}')}}]);
