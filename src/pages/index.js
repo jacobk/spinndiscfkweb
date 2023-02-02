@@ -17,11 +17,12 @@ function HomepageHeader() {
         <img src={logo} style={{ width: 300 }} />
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          {/* <Link
+          <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link> */}
+            to="/blog/ursakta-roran"
+          >
+            Tillfällig hemsida - mer info...
+          </Link>
         </div>
       </div>
     </header>
